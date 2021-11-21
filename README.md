@@ -1,2 +1,10 @@
 # learning-ML
 From 20211113
+
+# HW 1113
+아래 블로그의 linear regression 실습을 따라해보기
+https://roboreport.co.kr/scikit-learn%EC%9D%84-%EC%82%AC%EC%9A%A9%ED%95%98%EC%97%AC-%EB%B6%80%EB%8F%99%EC%82%B0-%EA%B0%80%EA%B2%A9-%EC%98%88%EC%B8%A1%ED%95%98%EA%B8%B0-4-linear-regression-%EC%82%AC%EC%9A%A9%EB%B2%95/
+
+# HW 1120
+lec3 듣고 아래 블로그 실습 따라해보기
+https://hyemin-kim.github.io/2020/08/11/E-Python-LinearRegression-1/
